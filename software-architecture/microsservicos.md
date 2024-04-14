@@ -14,4 +14,4 @@ O microsserviço é um componente de software independente que provê funcionali
 
 A Figura 4 mostra uma organização típica de uma arquitetura de microsserviços. Vários microsserviços compõem o sistema, cada um exercendo uma função específica. Cada microsserviço possui seu próprio banco de dados e se relacionam uns com os outros através de APIs REST ou filas provenientes de sistemas de mensageria. As requisições de clientes são feitas para um API-Gateway que é responsável por redirecionar a requisição para o microsserviço correto.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Figura 4 – Exemplo de uma arquitetura de microsserviços<br>Fonte: (RICHARDS; FORD, 2020), adaptado pelo Autor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Figura 4 – Exemplo de uma arquitetura de microsserviços.<br>Fonte: (RICHARDS; FORD, 2020), adaptado pelo Autor.</p></figcaption></figure>
