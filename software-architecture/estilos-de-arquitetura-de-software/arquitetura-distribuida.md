@@ -14,7 +14,7 @@ A Figura 3 representa uma arquitetura distribuída onde a interface gráfica int
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figura 3 – Representação Arquitetura Distribuída.<br>Fonte: (RICHARDS; FORD, 2020), adaptado pelo Autor.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/representacao-arquitetura-distribuida.png" alt=""><figcaption><p>Figura 3 – Representação Arquitetura Distribuída.<br>Fonte: (RICHARDS; FORD, 2020), adaptado pelo Autor.</p></figcaption></figure>
 
 Alguns exemplos de arquiteturas que seguem o estilo distribuído são (RICHARDS; FORD, 2020):&#x20;
 
