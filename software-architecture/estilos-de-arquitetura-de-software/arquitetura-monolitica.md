@@ -16,7 +16,7 @@ Devido a essa característica de unidade única, normalmente, um monólito é in
 
 <figure><img src="../../.gitbook/assets/monolito-modular.png" alt="" width="431"><figcaption><p>Figura 2 – Monólito modular<br>Fonte: (RICHARDS; FORD, 2020), adaptado pelo Autor</p></figcaption></figure>
 
-A arquitetura monolítica possui algumas desvantagens em relação a sua escalabilidade, agilidade e extensibilidade, pois para ser escalado, uma cópia do sistema inteiro deverá realizada, não apenas as partes que estão sob demanda elevada, levando a um consumo maior de recursos computacionais, como threads, CPU e memória. Além disso, o alto acoplamento no código que dificulta a extensibilidade (qualidade que permite ou favorece a adição de novos recursos ou funcionalidades) (FORD; RICHARDS; SADALAGE; DEHGHANI, 2021).
+A arquitetura monolítica possui algumas desvantagens em relação a sua escalabilidade, agilidade e extensibilidade, pois para ser escalado, uma cópia do sistema inteiro deverá realizada, não apenas as partes que estão sob demanda elevada, levando a um consumo maior de recursos computacionais, como threads, CPU e memória. Além disso, o alto acoplamento no código que dificulta a extensibilidade (qualidade que permite ou favorece a adição de novos recursos ou funcionalidades) (FORD; RICHARDS, 2020).
 
 Alguns exemplos de arquiteturas que seguem o estilo monolítico são RICHARDS; FORD, 2020):&#x20;
 
@@ -25,3 +25,5 @@ Alguns exemplos de arquiteturas que seguem o estilo monolítico são RICHARDS; F
 * Arquitetura de microkernel.
 
 ### Referências
+
+RICHARDS, Mark; FORD, Neal. Fundamentals of Software Architecture. 1st ed. Sebastopol: O'Reilly Media, 2020. 419 p. ISBN: 978-1-492-04345-4.

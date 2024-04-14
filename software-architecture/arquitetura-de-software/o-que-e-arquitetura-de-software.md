@@ -19,3 +19,10 @@ Sem a definição dos requisitos, as decisões de arquitetura são superficiais 
 
 
 ### Referências
+
+BASS, Len; CLEMENTS, Paul; KAZMAN, Rick. Software Architecture in Practice. 4th ed. Boston: Addison-Wesley, 2021. 464 p. ISBN: 978-0-13-688609-9.
+
+RICHARDSON, Chris. Microservices Patterns: With Examples in Java. 1st ed. Shelter Island: Manning Publications Co. 2018. 520 p. ISBN: 978-1617294549.
+
+VERNON, Vaughn; JASKULA, Tomasz. Strategic Monoliths and Microservices. 1st ed. Boston: Addison-Wesley, 2021. 352 p. ISBN: 978-0-13-735546-4.
+

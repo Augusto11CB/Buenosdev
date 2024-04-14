@@ -112,3 +112,14 @@ Apesar da complexidade e dos trade-offs que acompanham esse estilo arquitetural,
 
 Um exemplo amplamente reconhecido de arquitetura distribuída são os microsserviços, tema que será abordado em um futuro artigo desta série sobre arquitetura. Na arquitetura de microsserviços, cada serviço opera em seu próprio processo, podendo ser hospedado em máquinas físicas, máquinas virtuais ou containers. Uma característica fundamental da arquitetura de microsserviços é que os serviços são fracamente acoplados e se comunicam por meio de Interfaces de Programação de Aplicativos (Application Programming Interface ou API) e sistemas de mensageria, como RabbitMQ e Apache Kafka (RICHARDSON, 2018).
 
+
+
+### Referências
+
+BURNS, Brendan et al. Designing Distributed Systems. 1st ed. Sebastopol: O'Reilly Media, 2018. 162 p. ISBN: 978-1-491-98364-5
+
+NEWMAN, Sam. Building Microservices. 2nd ed. Sebastopol: O'Reilly Media, 2021. 612 p. ISBN: 978-1-492-03402-5.
+
+RICHARDS, Mark; FORD, Neal. Fundamentals of Software Architecture. 1st ed. Sebastopol: O'Reilly Media, 2020. 419 p. ISBN: 978-1-492-04345-4.
+
+RICHARDSON, Chris. Microservices Patterns: With Examples in Java. 1st ed. Shelter Island: Manning Publications Co. 2018. 520 p. ISBN: 978-1617294549.
