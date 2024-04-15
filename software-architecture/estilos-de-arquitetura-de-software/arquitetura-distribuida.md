@@ -26,7 +26,9 @@ Apesar de suas características robustas em termos de escalabilidade, confiabili
 
 De acordo com Richards e Ford (2020) existem diversos pontos de atenção ou falácias que estão presentes em qualquer arquitetura que segue o estilo distribuído e precisam ser conhecidos.
 
-#### 2. Falácias de Arquiteturas Distribuídas
+
+
+### 2. Falácias de Arquiteturas Distribuídas
 
 **2.1. Falácia nº 1: A rede é confiável**&#x20;
 
@@ -76,7 +78,7 @@ Uma rede homogênea pode ser definida como sendo uma rede de computadores iguais
 
 
 
-#### 3. Desafios Relacionados à Arquitetura Distribuída
+### 3. Desafios Relacionados à Arquitetura Distribuída
 
 Além das oito falácias, existem outros desafios associados à arquitetura distribuída que se mostram como grandes obstáculos. Estes são pontos devem ser avalidados cuidadosamente antes de optar pela implementação da arquitetura distribuída. Dentre eles, podemos citar:
 
@@ -114,7 +116,7 @@ Um exemplo amplamente reconhecido de arquitetura distribuída são os microsserv
 
 
 
-### Referências
+### 4. Referências
 
 BURNS, Brendan et al. Designing Distributed Systems. 1st ed. Sebastopol: O'Reilly Media, 2018. 162 p. ISBN: 978-1-491-98364-5
 

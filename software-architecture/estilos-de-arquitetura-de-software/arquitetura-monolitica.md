@@ -24,6 +24,6 @@ Alguns exemplos de arquiteturas que seguem o estilo monolítico são RICHARDS; F
 * Arquitetura de pipeline;&#x20;
 * Arquitetura de microkernel.
 
-### Referências
+### 2. Referências
 
 RICHARDS, Mark; FORD, Neal. Fundamentals of Software Architecture. 1st ed. Sebastopol: O'Reilly Media, 2020. 419 p. ISBN: 978-1-492-04345-4.

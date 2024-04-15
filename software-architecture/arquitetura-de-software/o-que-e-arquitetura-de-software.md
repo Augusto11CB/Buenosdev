@@ -1,6 +1,6 @@
 # O que é Arquitetura de Software?
 
-Neste artigo discutiremos os conceitos de arquitetura de software, estilos arquiteturais e suas respectivas vantagens e desvantagens.
+Neste artigo, iremos explorar uma variedade de definições de Arquitetura de Software, todas fornecidas por especialistas de renome no campo da engenharia de software. Os conceitos e definições aqui discutidos servirão como alicerce para os demais artigos desta série. Apesar de ser conciso, o conteúdo abordado neste artigo é de suma importância, pois estabelecerá nossos fundamentos sobre o que constitui a Arquitetura de Software.
 
 ### 1. O que é Arquitetura de Software?
 
@@ -18,7 +18,7 @@ Sem a definição dos requisitos, as decisões de arquitetura são superficiais 
 
 
 
-### Referências
+### 2. Referências
 
 BASS, Len; CLEMENTS, Paul; KAZMAN, Rick. Software Architecture in Practice. 4th ed. Boston: Addison-Wesley, 2021. 464 p. ISBN: 978-0-13-688609-9.
 
